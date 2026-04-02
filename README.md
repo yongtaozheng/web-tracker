@@ -7,6 +7,8 @@
 - **开箱即用** — 一行代码接入，自动监听路由变化
 - **字段可配** — 上报字段名自由映射，适配任意后端接口
 
+源码仓库：<https://github.com/yongtaozheng/web-tracker>
+
 ## 安装
 
 ```bash
